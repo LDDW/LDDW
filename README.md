@@ -14,3 +14,4 @@ Actuellement, je développe mes compétences en développement mobile en apprena
 🏋️ Le sport et nutrition me permettent d'adopter un mode de vie équilibré et sain.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lddw&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lddw&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
