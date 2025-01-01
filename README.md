@@ -12,3 +12,5 @@ Actuellement, je développe mes compétences en développement mobile en apprena
 🌍 Je suis toujours partant pour explorer de nouveaux endroits et de nouvelles cultures.
 🚗 Passionné d’automobiles et de motos, je prends plaisir à découvrir l'histoire de l'automobile et à partager cette passion. 
 🏋️ Le sport et nutrition me permettent d'adopter un mode de vie équilibré et sain.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lddw&show_icons=true&theme=transparent)
