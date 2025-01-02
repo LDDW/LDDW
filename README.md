@@ -6,6 +6,9 @@ Je conçois et développe des projets web principalement avec JavaScript et Type
 #### 📱 Applications mobile : 
 Actuellement, je développe mes compétences en développement mobile en apprenant Flutter et Dart. 🎯 Mon objectifs est de devenir un développeur d’applications mobiles
 
+#### 🔒 DevSecOps : 
+Je gère l’administration de serveurs Debian pour le déploiement de projets web et la mise en œuvre de processus d’automatisation, incluant l’utilisation de robots.
+
 #### 🎨 Mes passions et centres d’intérêt :
 
 - 🔍 J’aime découvrir de nouvelles technologies et approfondir mes connaissances dans des domaines variés, comme la psychologie humaine, la productivité, et bien d’autres sujets.
@@ -28,6 +31,7 @@ Actuellement, je développe mes compétences en développement mobile en apprena
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 #### 📈 Mes statistiques
 
